@@ -22,6 +22,9 @@ My Google Play account: https://play.google.com/store/apps/dev?id=46358492988430
 
 
 ## Build Pre-requisites
+Ubuntu:
+
+    $ sudo apt-get install cmake libsdl2-dev libsdl2-mixer-dev libsdl2-image-dev
 
 FreeBSD:
 
